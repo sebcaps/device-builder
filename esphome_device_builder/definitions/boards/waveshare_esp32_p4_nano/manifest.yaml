@@ -54,5 +54,5 @@ source:
   type: esphome-devices
   remote_id: Waveshare-ESP32-P4-Nano
   upstream_url: https://github.com/esphome/devices.esphome.io/blob/main/src/docs/devices/Waveshare-ESP32-P4-Nano/index.md
-  upstream_revision: 99a95f2f6fa1642d773820cdf5d20020358ab9dc
+  upstream_revision: 0960c5c1fb74b1e9d60829bf911f47b0e8cf2eb1
   content_hash: 57ac8d90a8ad45d9f67cae8d4428f2a2d1c8b3bbd784b5b368fb95c8d6ea1cbe
